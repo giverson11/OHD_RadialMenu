@@ -1,0 +1,11 @@
+{
+	"FileVersion": 1,
+	"ID": 3512357290,
+	"Title": "RadialMenuProto",
+	"Description": "FirstPlaytest\r\n\r\nUse Test Gamemode and Test Factions\r\n\r\ngame=/RadailMenu/Root/Core/BP_HDGame_AdvanceAndSecureBase_Radial.BP_HDGame_AdvanceAndSecureBase_Radial_C",
+	"PreviewImgFilename": "C:/Users/garre/OneDrive/Pictures/76c85fdd25948044010cd163b54200f3.jpg",
+	"Changenote": "-Fixed widgets still displaying while in vehicles in single player",
+	"Tags": [
+		"Gamemode"
+	]
+}
